@@ -1,6 +1,6 @@
 # Sobre o projeto
 
-Quiz de questões criado para por em prática estudos sobre Swft.
+Quiz de questões criado para por em prática os estudos sobre Swft.
 
 ## ✔️ Tecnologias utilizadas 
 - `UIKit`: Um framework que permite a construção de aplicações iOS.
