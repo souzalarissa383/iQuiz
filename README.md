@@ -4,14 +4,14 @@ Quiz de questões criado para por em prática os estudos sobre Swft.
 
 ## ✔️ Tecnologias utilizadas 
 - `UIKit`: Um framework que permite a construção de aplicações iOS.
-- XCode: O ambiente de desenvolvimento necessário para a construção de aplicativos.
-- Storyboard: Arquivo que permite a visualização do fluxo de telas.
-- Interface Builder: Posicionando elementos na tela.
+- `XCode`: O ambiente de desenvolvimento necessário para a construção de aplicativos.
+- `Storyboard`: Arquivo que permite a visualização do fluxo de telas.
+- `Interface Builder`: Posicionando elementos na tela.
 - `TextField`: Componente para a criação de caixas de texto, onde o usuário pode digitar algo.
 - `Label`: Componente para a criação de textos.
 - `Button`: Componente que cria um botão.
 - `@IBOutlet` e `@IBAction`: Como referenciar objetos e ações de objetos no nosso código.
-- Fundamentos da linguagem Swift: Criando variáveis, funções, classes, instâncias, opcionais, entre outros.
+- `Fundamentos da linguagem Swift`: Criando variáveis, funções, classes, instâncias, opcionais, entre outros.
 
 ## 📁 Acesso ao projeto
 Você pode [baixar o zip](https://github.com/souzalarissa383/iQuiz/archive/refs/heads/main.zip) com o código final do projeto ou [acessar o código fonte](https://github.com/souzalarissa383/iQuiz).
